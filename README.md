@@ -1,6 +1,6 @@
 # TESS Transit Finder Script
 
-A Python script for retrieving and filtering transit observation data from the Swarthmore TESS Transit Finder tool. This script helps astronomers identify potential exoplanet transit observations based on customizable parameters and filtering criteria.
+A Python script for retrieving and filtering transit observation data from the Swarthmore TESS Transit Finder tool. This script helps observers identify potential exoplanet transit observations based on customizable parameters and filtering criteria.
 
 ## Features
 
